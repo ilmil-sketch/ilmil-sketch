@@ -29,7 +29,7 @@
 
 <br>
 
-<!-- KARTU STREAK UTAMA (STABIL & ANTI ERROR 402) -->
+<!-- KARTU STREAK UTAMA (LATAR BELAKANG PENDAR UNGU & AMAN ANTI ERROR) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmil-sketch&theme=tokyonight&hide_border=false&border=3b185f&background=05020a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" width="85%" />
 </p>
