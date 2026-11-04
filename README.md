@@ -63,6 +63,14 @@
   </sub>
 </p>
 
+<div align="center">
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/stats?username=ilmil-sketch&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+</div>
+
 </details>
 
 <br>
