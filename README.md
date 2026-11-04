@@ -58,28 +58,12 @@
 
 <br>
 
-<!-- BARIS 3: ANIMASI SNAKE GAME / KALENDER KONTRIBUSI -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ilmil-sketch/ilmil-sketch/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="95%" />
-</p>
-
-<br>
-
-<!-- BARIS 4: ICON TOOLS / CREATIVE MEDIA -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=,,,,,,,&theme=dark" alt="Creative Tools" />
-</p>
-
-<br>
-
-<!-- Tautan Kecil di Paling Bawah -->
+<!-- Tautan Kecil di Paling Bawah (Hanya Instagram & Link Profil) -->
 <p align="center">
   <sub>
     <font color="#c084fc">♡</font> 
     <a href="https://www.instagram.com/ruh__na?utm_source=qr&igsh=Y210N283aGVlMzBv"><font color="#94a3b8">instagram</font></a> ✦ 
-    <a href="https://github.com/ilmil-sketch"><font color="#94a3b8">github</font></a> ✦ 
-    <a href="https://www.tiktok.com/@ruh__na?_r=1&_t=ZS-9747HDIzxS6"><font color="#94a3b8">tiktok</font></a> ✦ 
-    <a href="mailto:ilmilruhi@gmail.com"><font color="#94a3b8">email</font></a> 
+    <a href="https://github.com/ilmil-sketch"><font color="#94a3b8">github</font></a> 
     <font color="#c084fc">♡</font>
   </sub>
 </p>
