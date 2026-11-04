@@ -54,3 +54,7 @@
 <sub><font color="#64748b">Ditempa dalam senyap, diikat oleh kata dan secarik kertas.</font></sub>
 
 </div>
+
+<p align="center">
+  <img src="./acrade-contributions.svg" width="85%" alt="Contributions" />
+</p>
