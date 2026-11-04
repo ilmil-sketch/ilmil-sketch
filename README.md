@@ -29,28 +29,13 @@
 
 <br>
 
-<!-- BARIS 1: 3 KARTU STATS UTAMA -->
+<!-- KARTU STATS: KONTRIBUSI & STREAK DIPERBESAR SEIMBANG -->
 <table align="center" border="0" cellpadding="2" cellspacing="4" style="border: none; background: transparent;">
   <tr>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ilmil-sketch&show_icons=true&theme=tokyonight&hide_border=false&border_color=3b185f&bg_color=05020a&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" width="100%" />
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmil-sketch&layout=donut&theme=tokyonight&hide_border=false&border_color=3b185f&bg_color=05020a&title_color=c084fc&text_color=e9d5ff" width="100%" />
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilmil-sketch&theme=tokyo-night&bg_color=05020a&color=c084fc&line=a855f7&point=e9d5ff&hide_border=false&border=3b185f&area=true" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<!-- BARIS 2: 2 KARTU STREAK & KONTRIBUSI -->
-<table align="center" border="0" cellpadding="2" cellspacing="4" style="border: none; background: transparent;">
-  <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=ilmil-sketch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=false&border_color=3b185f&bg_color=05020a&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" width="100%" />
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmil-sketch&theme=tokyonight&hide_border=false&border=3b185f&background=05020a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" width="100%" />
     </td>
   </tr>
@@ -58,7 +43,7 @@
 
 <br>
 
-<!-- Tautan Kecil di Paling Bawah (Hanya Instagram & Link Profil) -->
+<!-- Tautan Kecil di Paling Bawah -->
 <p align="center">
   <sub>
     <font color="#c084fc">♡</font> 
