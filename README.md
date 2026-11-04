@@ -31,7 +31,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilmil-sketch&theme=tokyo-night&hide_border=true&color=c084fc&line=c084fc&point=c084fc&background=0f0b1e" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmil-sketch&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
 </div>
