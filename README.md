@@ -28,29 +28,25 @@
 
 <br>
 
+<br>
+
 <div align="center">
 
+<!-- Judul / Badge Utama -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmil-sketch&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Ilmil-SKETCH-9333ea?style=flat-square&logo=ghost&logoColor=white" alt="Archive Badge" />
 </p>
+
+<br>
+
+<!-- Menampilkan file SVG lokal kontribusi -->
+<p align="center">
+  <img src="./acrade-contributions.svg" alt="Arcade Contributions" />
+</p>
+
+<br>
 
 </div>
-
-<br>
-
-<!-- KARTU TOP LANGUAGES TOKYONIGHT -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmil-sketch&theme=tokyonight&hide_border=false&layout=compact" width="85%" />
-</p>
-
-<br>
-
-<!-- KARTU STREAK STATS TOKYONIGHT -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmil-sketch&theme=tokyonight&hide_border=false&border=3b185f&background=05020a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" width="85%" />
-</p>
-
-<br>
 
 <!-- Tautan Bawah -->
 <p align="center">
