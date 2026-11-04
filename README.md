@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #000000; background-image: radial-gradient(circle at 50% 12%, rgba(168, 85, 247, 0.22) 0%, rgba(88, 28, 135, 0.08) 35%, transparent 70%), radial-gradient(circle, rgba(192, 132, 252, 0.12) 1px, transparent 1px); background-size: 100% 100%, 28px 28px; padding: 30px 18px; border-radius: 14px; border: 1px solid rgba(168, 85, 247, 0.25); box-shadow: 0 0 35px rgba(147, 51, 234, 0.2) inset;">
+<div align="center" style="background: #000000; background-color: #000000; background-image: radial-gradient(circle at 50% 10%, rgba(168, 85, 247, 0.25) 0%, rgba(88, 28, 135, 0.1) 40%, #000000 75%); padding: 35px 20px; border-radius: 16px; border: 1px solid rgba(168, 85, 247, 0.3); box-shadow: 0 0 40px rgba(147, 51, 234, 0.25) inset;">
 
 <!-- Judul Tulisan Tangan Animasi GIF -->
 <img src="./title-script.gif" width="35%" alt="Kholilatul Ilmilruuhi" style="mix-blend-mode: screen;" />
@@ -29,7 +29,7 @@
 
 <br>
 
-<!-- KARTU STREAK UTAMA (LATAR BELAKANG PENDAR UNGU & AMAN ANTI ERROR) -->
+<!-- KARTU STREAK UTAMA (STABIL & AMAN ANTI ERROR) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmil-sketch&theme=tokyonight&hide_border=false&border=3b185f&background=05020a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" width="85%" />
 </p>
