@@ -28,10 +28,14 @@
 
 <br>
 
-<!-- KARTU STATS TOKYONIGHT -->
+<div align="center">
+
+<!-- 1. KARTU STATS UTAMA -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilmil-sketch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilmil-sketch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="85%" alt="GitHub Stats" />
 </p>
+
+</div>
 
 <br>
 
