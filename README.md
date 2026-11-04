@@ -29,9 +29,16 @@
 
 <br>
 
-<!-- KARTU STREAK & STATISTIK BERJEJER RAPI TANPA KOTAK KOSONG -->
+<!-- KARTU STREAK (POSISI TENGAH & UKURAN PAS) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmil-sketch&theme=tokyonight&hide_border=false&border=3b185f&background=05020a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmil-sketch&theme=tokyonight&hide_border=false&border=3b185f&background=05020a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" width="85%" />
+</p>
+
+<br>
+
+<!-- GRAFIK AKTIVITAS KONTRIBUSI -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilmil-sketch&theme=tokyo-night&bg_color=05020a&color=c084fc&line=a855f7&point=e9d5ff&hide_border=false&border=3b185f&area=true" width="85%" alt="Contribution Graph" />
 </p>
 
 <br>
@@ -55,4 +62,3 @@
 <sub><font color="#64748b">Ditempa dalam senyap, diikat oleh kata dan secarik kertas.</font></sub>
 
 </div>
-
