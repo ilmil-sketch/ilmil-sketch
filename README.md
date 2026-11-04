@@ -29,17 +29,10 @@
 
 <br>
 
-<!-- KARTU STATS: KONTRIBUSI & STREAK DIPERBESAR SEIMBANG -->
-<table align="center" border="0" cellpadding="2" cellspacing="4" style="border: none; background: transparent;">
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ilmil-sketch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=false&border_color=3b185f&bg_color=05020a&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" width="100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmil-sketch&theme=tokyonight&hide_border=false&border=3b185f&background=05020a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- KARTU STREAK & STATISTIK BERJEJER RAPI TANPA KOTAK KOSONG -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmil-sketch&theme=tokyonight&hide_border=false&border=3b185f&background=05020a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" width="95%" />
+</p>
 
 <br>
 
