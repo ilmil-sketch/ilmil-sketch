@@ -30,9 +30,8 @@
 
 <div align="center">
 
-<!-- 1. KARTU STATS UTAMA -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilmil-sketch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="85%" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilmil-sketch&theme=tokyo-night&hide_border=true&color=c084fc&line=c084fc&point=c084fc&background=0f0b1e" alt="Activity Graph" />
 </p>
 
 </div>
@@ -40,22 +39,16 @@
 <br>
 
 <!-- KARTU TOP LANGUAGES TOKYONIGHT -->
-<div align="center">
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/stats?username=ilmil-sketch&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmil-sketch&theme=tokyonight&hide_border=false&layout=compact" width="85%" />
 </p>
-
 
 <br>
 
-<div align="center">
-
+<!-- KARTU STREAK STATS TOKYONIGHT -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilmil-sketch&theme=tokyo-night&hide_border=true&color=c084fc&line=c084fc&point=c084fc&background=0f0b1e" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmil-sketch&theme=tokyonight&hide_border=false&border=3b185f&background=05020a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" width="85%" />
 </p>
-
-</div>
 
 <br>
 
