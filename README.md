@@ -35,6 +35,17 @@
 
 <br>
 
+<table align="center" border="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api?username=ilmil-sketch&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&bg_color=0f0b1e,160d26&title_color=c084fc&text_color=94a3b8&icon_color=c084fc" width="100%" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ilmil-sketch&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0f0b1e,160d26&title_color=c084fc&text_color=94a3b8" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <!-- Tautan Bawah -->
 <p align="center">
   <sub>
