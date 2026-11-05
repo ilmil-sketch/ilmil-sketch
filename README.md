@@ -58,13 +58,57 @@
 
 <br>
 
----
-
 <br>
 
 <p align="center">
   <img src="./acrade-contributions.svg" width="85%" alt="Contributions" />
 </p>
+
+<br>
+
+<br>
+
+
+<!-- MENU DROPDOWN: SAJAK AKSA -->
+<details>
+<summary><b><font color="#c084fc"> SAJAK AKSA </font></b></summary>
+
+<br>
+
+<div align="center">
+  <p><sub><font color="#94a3b8">Jejak kata dan ruang sunyi yang dibentuk menjadi pelabuhan rasa.</font></sub></p>
+  
+  <br>
+
+  <!-- TOMBOL CARD TIMBUL DENGAN ANIMASI HOVER -->
+  <a href="https://ilmil-sketch.github.io/Arsip-Rasa" target="_blank" style="text-decoration: none;">
+    <div align="center" style="
+      display: inline-block;
+      padding: 14px 32px;
+      background: linear-gradient(145deg, #120b22, #080410);
+      color: #c084fc;
+      font-family: monospace;
+      font-weight: bold;
+      font-size: 14px;
+      letter-spacing: 1px;
+      border-radius: 8px;
+      border: 1px solid #3b185f;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8), inset 0 0 10px rgba(192, 132, 252, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+    " 
+    onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 25px rgba(192, 132, 252, 0.3), inset 0 0 15px rgba(192, 132, 252, 0.3)'; this.style.borderColor='#c084fc';" 
+    onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 4px 20px rgba(0, 0, 0, 0.8), inset 0 0 10px rgba(192, 132, 252, 0.1)'; this.style.borderColor='#3b185f';">
+      ✦ KUNJUNGI ARSIP RASA ✦
+    </div>
+  </a>
+
+</div>
+
+</details>
+
+<br>
+
 <sub><font color="#64748b">Ditempa dalam senyap, diikat oleh kata dan secarik kertas.</font></sub>
 
 </div>
+
