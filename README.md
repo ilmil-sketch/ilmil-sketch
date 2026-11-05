@@ -49,8 +49,9 @@
   <sub>
     <font color="#c084fc">♡</font> 
     <a href="https://www.instagram.com/ruh__na?utm_source=qr&igsh=Y210N283aGVlMzBv"><font color="#94a3b8">instagram</font></a> ✦ 
-    <a href="https://github.com/ilmil-sketch"><font color="#94a3b8">github</font></a> 
-    <font color="#c084fc">♡</font>
+    <a href="https://github.com/ilmil-sketch"><font color="#94a3b8">github</font></a> ✦ 
+    <font color="#c084fc"></font>
+    <a href="https://tiktok.com/@ruh__na"><font color="#94a3b8">tiktok</font></a> ♡
   </sub>
 </p>
 
