@@ -19,7 +19,7 @@
 <img src="./owl-noir.gif" width="340" alt="Owl Noir Purple" />
 
 <p><sub><font color="#c084fc">Cielo Perl</font></sub></p>
-<p><font color="#f43f5e"><b>Everything is ART</b></font></p>
+<p><span style="color: #f43f5e; font-weight: bold;">Everything is ART</span></p>
 
 <br>
 
