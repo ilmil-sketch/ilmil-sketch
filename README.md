@@ -33,15 +33,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmil-sketch&theme=tokyonight&hide_border=false&border=3b185f&background=05020a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" width="85%" />
 </p>
 
-<br>
-
 <table align="center" border="0" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=ilmil-sketch&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&bg_color=0f0b1e,160d26&title_color=c084fc&text_color=94a3b8&icon_color=c084fc" width="100%" alt="GitHub Stats" />
+    <td align="center" width="57%">
+      <img src="https://github-readme-stats.shion.dev/api?username=ilmil-sketch&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&bg_color=000000&title_color=c084fc&text_color=38bdf8&icon_color=c084fc&border_color=3b185f" width="100%" alt="GitHub Stats" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ilmil-sketch&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0f0b1e,160d26&title_color=c084fc&text_color=94a3b8" width="100%" alt="Top Languages" />
+    <td align="center" width="56%">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ilmil-sketch&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000000&title_color=c084fc&text_color=38bdf8&border_color=3b185f" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -62,10 +60,11 @@
 
 ---
 
-<sub><font color="#64748b">Ditempa dalam senyap, diikat oleh kata dan secarik kertas.</font></sub>
-
-</div>
+<br>
 
 <p align="center">
   <img src="./acrade-contributions.svg" width="85%" alt="Contributions" />
 </p>
+<sub><font color="#64748b">Ditempa dalam senyap, diikat oleh kata dan secarik kertas.</font></sub>
+
+</div>
